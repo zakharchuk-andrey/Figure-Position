@@ -1,0 +1,20 @@
+@media(max-width:568px) {
+    .figure {
+        width: 350px;
+        height: 350px;
+    }
+}
+
+@media(min-width:768px) {
+    .figure {
+        width: 450px;
+        height: 450px;
+    }
+}
+
+@media(min-width:1024px) {
+    .figure {
+        width: 550px;
+        height: 550px;
+    }
+}
