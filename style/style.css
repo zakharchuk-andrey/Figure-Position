@@ -1,4 +1,4 @@
-
+/* ========== Figure ========== */
 .figure {
     position: relative;
     height: 600px;
@@ -6,6 +6,7 @@
     margin: 0 auto;
 }
 
+/* ========== Square ========== */
 .figure__square-huge {
     position: absolute;
     top: 25%;
@@ -31,6 +32,8 @@
     background-color: #f7ba00;
     z-index: 15;
 }
+
+/* ========== Circle ========== */
 
 .figure__circle--pink {
     position: absolute;
